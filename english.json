@@ -1,0 +1,31 @@
+[
+  {
+      "Chapter 1": {
+        "id": 1,
+        "title": "",
+        "subtitle": "Who did patrick's Homework?",
+        "total marks": "50",
+        "question": [
+          {
+            "1": [
+              "What do you think how did patrick's homework?",
+              "Cousin",
+              "Neighbour",
+              "Sister",
+              "Patrick",
+              "Sister"
+            ],
+            "2": [
+              "Why patrick didn't brought his homework?",
+              "He forgot his notebook",
+              "Dog ate it",
+              "He didn't completed it",
+              "He was ill",
+              "He forgot his notebook"
+            ]
+          }
+        ]        
+
+      }
+    }
+]
