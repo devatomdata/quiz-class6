@@ -1,8 +1,9 @@
 [
   {
-      "Chapter 1": {
+    "Chapters": [
+       {
         "id": 1,
-        "title": "",
+        "title": "Chapter 1",
         "subtitle": "Who did patrick's Homework?",
         "total marks": "50",
         "question": [
@@ -24,8 +25,37 @@
               "He forgot his notebook"
             ]
           }
-        ]        
+        ]
+
+      },
+      {
+        "id": 1,
+        "title": "Chapter 2",
+        "subtitle": "The Last Lesson?",
+        "total marks": "70",
+        "question": [
+          {
+            "1": [
+              "is this last lesson?",
+              "yes",
+              "no",
+              "maybe",
+              "I dont know",
+              "no"
+            ],
+            "2": [
+              "moral of last lesson",
+              "even first lesson can be last lesson",
+              "option 1",
+              "option 2",
+              "option 3",
+              "even first lesson can be last lesson"
+            ]
+          }
+        ]
 
       }
-    }
+    ]
+  }
+
 ]
